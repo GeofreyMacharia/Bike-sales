@@ -7,7 +7,7 @@ I used Excel to dig into the data, built pivot tables to identify data relations
 I later visualized the realationships using charts and put together an easy-to-read dashboard to wrap it all up. 
 
 ## Pivot table preview:
-![Screenshot (1699)](https://github.com/user-attachments/assets/d1d78853-7980-4673-b894-6aa6c240029b)
+![Pivot table](https://github.com/user-attachments/assets/46172acf-e71b-4d49-bb1f-2bddb33243ad)
 
 ## Resulting Excel Dashboard:
 ![bik Sal](https://github.com/user-attachments/assets/6357eb1c-353a-4d66-8f1c-aab39fcbb873)
